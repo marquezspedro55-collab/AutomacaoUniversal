@@ -198,7 +198,7 @@ abrir /home/voce/projetos
 
 ## 👤 Autor
 
-**Danilo Barbosa Marques**
+**Pedro Marques**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/seu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
