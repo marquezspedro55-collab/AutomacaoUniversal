@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Dados e logs locais (gerados em tempo de execução)
+data/database.json
+data/*.bak
+logs/*.log
+
+# IDEs / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
